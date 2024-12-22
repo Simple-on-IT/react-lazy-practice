@@ -14,4 +14,4 @@
 
 ## Дополнительные материалы:
 Документация: https://react.dev/reference/react/lazy  
-Видео - 
+Видео - https://youtube.com/shorts/00Pd3KLHpKM?feature=share
